@@ -1,4 +1,5 @@
 ## 运行结果
+![image text](https://github.com/CaoGang2018/newcoderepo/raw/master/RPG-Attributes-Generator/image/result.jpg)
 ```java
 综合 88	79 79
 力量 16	15 16
