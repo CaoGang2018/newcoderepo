@@ -1,14 +1,6 @@
 ## 运行结果
 ![image text](https://github.com/CaoGang2018/newcoderepo/raw/master/RPG-Attributes-Generator/image/result.jpg)
-```java
-综合 88	79 79
-力量 16	15 16
-敏捷 11	13 10
-体格 16	15 6
-智力 15	10 16
-学识 16	12 14
-魅力 14	14 18
-```
+
 ## 项目概况
 想象下你正在运营一个桌面RPG，你的玩家们正在创建角色。
 
